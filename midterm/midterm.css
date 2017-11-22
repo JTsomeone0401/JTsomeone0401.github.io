@@ -1,0 +1,112 @@
+#cover {
+    background-image: url(midtermasset/580274_635574449791140_1715597943_n.jpg);
+   background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1000px;
+}
+
+#firstline{
+  position:relative;
+  top:500px;
+    padding-right:50%px;
+color:dimgrey;
+}
+
+
+#open1 {
+    background-image: url(midtermasset/%E8%8F%AF%E5%85%89%E4%B8%80%E9%9A%85%EF%BC%8C%E6%A8%B9%E7%BE%A4%E8%88%87%E5%AE%BF%E8%88%8D%E3%80%81%E8%87%AA%E5%BB%BA%E6%88%BF%E8%88%8D%E7%BE%A4%E8%90%BD%E7%9B%B8%E4%BE%9D_%E8%87%BA%E5%8C%97%E5%88%91%E5%8B%99%E6%89%80%E7%BE%A4%E8%90%BD%E8%AD%B7%E8%82%B2%E8%81%AF%E7%9B%9F%E6%94%9D.jpg);
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#open2 {
+    background-image: url(midtermasset/%E8%8F%AF%E5%85%89%E4%B8%80%E9%9A%852.jpeg);
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 400px;
+    color: aliceblue;
+    
+
+}
+
+
+
+
+#fin1 {
+    background-image: url(midtermasset/%E9%81%95%E5%BB%BA%E5%8E%9F%E4%BE%86%E8%B2%BC%E8%91%97%E7%89%86%E9%9D%A2%E8%80%8C%E5%BB%BA%EF%BC%8C%E6%8B%86%E9%99%A4%E9%81%95%E5%BB%BA%E5%BE%8C%E9%9C%B2%E5%87%BA%E5%AE%BF%E8%88%8D%E5%81%B4%E9%9D%A2%EF%BC%8C%E8%88%87%E9%81%A0%E6%96%B9%E7%9A%84%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82%E5%BD%A2%E6%88%90%E5%B0%8D%E6%AF%94_Jason%20Hou%E6%94%9D.jpg); min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#fin2 {
+    background-image: url(midtermasset/%E9%81%95%E5%BB%BA%E5%8E%9F%E4%BE%86%E8%B2%BC%E8%91%97%E7%89%86%E9%9D%A2%E8%80%8C%E5%BB%BA2.jpeg) ;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 150px;
+    padding-top: 380px;
+    color: aliceblue;
+    
+}
+
+#introduction{
+    padding-left:50%;
+    
+}
+
+#footer {
+    background-color:blanchedalmond;
+        padding-left: 48%;
+    clear:both;
+}
+
+#eviction1{ 
+    background-image: url(midtermasset/327.jpg);
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ padding-left: 45%;
+    padding-top: 400px;
+    color: floralwhite
+    
+    
+}
+
+
+
+#history{
+    background-image: url(midtermasset/20121231%E6%A2%85%E6%A8%B9%E8%80%81%E5%B1%8B2.JPG);
+    min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   top:-100px;
+    padding-left: 150px;
+    padding-top: 400px;
+    color:aliceblue;
+    
+}
+#buttom{
+    padding-left: 50%;
+}
+#wrapper {
+    width: 800px;
+    margin: 0 auto;
+}
+
